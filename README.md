@@ -1,6 +1,6 @@
 # GaugeDepth
 
-Implementation of **Gauge-Consistent Scale Calibration for Sparse-Reference Depth Measurement**. A positive affine inverse-depth gauge is constrained by uncertain sparse references. The surviving gauge polygon produces depth intervals, a constrained point estimate, and explicit incompatible or unbounded outputs.
+Implementation of **Gauge-Consistent Scale Calibration for Monocular Depth Measurement**. A positive affine inverse-depth gauge is constrained by uncertain sparse references. The surviving gauge polygon produces depth intervals, a constrained point estimate, and explicit incompatible or unbounded outputs.
 
 ## Install
 
